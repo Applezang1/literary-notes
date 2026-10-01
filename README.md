@@ -3,4 +3,5 @@ This repository consists of a collection of books I have read over my educationa
 
 ## Literary Collection 
 - [*Pride and Prejudice*](./Pride_and_Prejudice.md) by Jane Austen
+- [*In Cold Blood*](./In_Cold_Blood.md) by Truman Capote
 
